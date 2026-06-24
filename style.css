@@ -85,6 +85,10 @@
   }
   .nav-lang:hover { border-color: var(--white-40); color: var(--white); }
 
+  .nav-lang option{
+    color: var(--white-70); background: var(--navy-2);
+  }
+
   .hero {
     min-height: 100vh;
     display: flex; align-items: center;
